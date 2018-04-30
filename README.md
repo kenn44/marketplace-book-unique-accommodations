@@ -3,6 +3,9 @@
 [DOWNLOAD](https://github.com/kenn44/memoire-licence-al/raw/master/memoire_licence_al.pdf)
 
 
+[![DOWNLOAD](https://img.shields.io/github/downloads-pre/atom/atom/latest/total.svg?style=for-the-badge)](https://github.com/kenn44/memoire-licence-al/raw/master/memoire_licence_al.pdf)
+
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/KennethAssogba)
 
 ## ABSTRACT
