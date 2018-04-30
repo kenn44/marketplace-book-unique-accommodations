@@ -1,0 +1,151 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%Les packages%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[utf8]{inputenc}%           gestion des accents (source)
+\usepackage[T1]{fontenc}%              gestion des accents (PDF)
+\usepackage[english,french]{babel}
+%\usepackage[francais]{babel}%          gestion du français
+\usepackage{textcomp}%                 caractères additionnels
+\usepackage{listings}%                 pour insérer du code source
+\usepackage{amssymb,amsthm,amsmath,amsfonts,mathrsfs}% packages de l'AMS + mathtools
+\usepackage{lmodern}%                  police de caractère
+\usepackage{geometry}%                 gestion des marges
+	\geometry{papersize={21cm,29.7cm}}
+	\geometry{margin=2cm,bottom=2cm}
+\usepackage{graphicx}%                 gestion des images
+	\graphicspath{{images/}}%pour spécifier le chemin d'accès aux images
+\usepackage{xcolor}%                   gestion des couleurs
+\usepackage{array}%                    gestion améliorée des tableaux
+\usepackage{tgpagella}%
+\usepackage{calc}%                     syntaxe naturelle pour les calculs
+\usepackage{titlesec}%                 pour les sections
+\usepackage{titletoc}%                 pour la table des matières
+\usepackage{fancyhdr}%                 pour les en-têtes
+\usepackage{titling}%                  pour le titre
+\usepackage{enumitem}%                 pour les listes numérotées
+\usepackage[breaklinks]{hyperref}%                 gestion des hyperliens, rend actif les liens, références croisées,
+\hypersetup{pdfstartview=XYZ}%         zoom par défaut
+%\usepackage{abstract}%
+\usepackage{stmaryrd}% 				   pour délimiteurs ouvrants et fermants
+\usepackage{footmisc}%
+\usepackage{multirow}%				   Fusion de cellules
+\usepackage{pdfpages}%					Pour inclure des pages entières d’un PDF
+\usepackage{caption}%					placement manuel d'image
+%\usepackage{mathdots}%permet d’avoir des points de suspension corrects en indice ou exposant.
+\usepackage{shorttoc}%                  pour la réalisation d'un sommaire
+\usepackage{remreset}%
+\usepackage{pgf,tikz}%             gestion des dessins  
+	\usetikzlibrary{arrows}
+\usepackage{eurosym}%
+\usepackage{soul}%
+\usepackage{bookman}
+\usepackage{ wrapfig}
+\usepackage{ulem}
+\usepackage{ setspace}
+\usepackage{ layout}
+\usepackage{lipsum}% juste utile ici pour générer du faux texte}
+%\usepackage{mwe}%juste utile ici pour générer de fausses images
+\usepackage[Rejne]{fncychap}%pour de jolis titres de chapitres voir la doc pour d'autres styles.
+\usepackage{soul}
+\usepackage{float}
+%%%%%%%%%%%%%%%%%%%style main%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+        \fancypagestyle{mainmatter} {}
+                \fancyhf{}
+                \fancyhead[R]{\leftmark} % Right Even
+                \fancyfoot[C]{\thepage}
+                %\fancyfoot[C]{\thepage \\\scriptsize Conception et développement d’une plateforme communautaire de découverte d’expérience et de location à court terme d’appartement ou de parties d’appartement entre particuliers}
+               
+             
+\renewcommand{\headrulewidth}{1.5pt}%trait horizontal pour l'en-tête
+        \renewcommand{\footrulewidth}{2pt}%trait horizontal pour les pieds de pages              
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \setlength{\headheight}{14.2pt}% hauteur de l'en-tête
+\usepackage{ makeidx} 
+\usepackage[french]{nomencl}
+\lstnewenvironment{ccode}[1][]
+  {\lstset{language=C,numbers=left,numberstyle=\tiny,#1}}
+  {}
+\lstset{aboveskip=\topsep,belowskip=\topsep,
+        frame=single,rulecolor=\color{black}}%,backgroundcolor=\color{blue!5}}
+        
+%%%%%%%%%%%%%%%%%%%style back%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  
+        \fancypagestyle{backmatter}{%
+                \fancyhf{}%on vide les en-têtes
+                \fancyfoot[C]{ \thepage}%
+                \renewcommand{\headrulewidth}{1.5pt}%trait horizontal pour l'en-tête
+                \renewcommand{\footrulewidth}{2pt}%trait horizontal pour les pieds de pages
+                }
+                
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\makenomenclature
+\renewcommand{\nomname}{Liste des abréviations, des sigles et des symboles}
+\makeatletter
+\newenvironment{abstract}{%
+    \cleardoublepage
+    \null\vfil
+    \@beginparpenalty\@lowpenalty
+    \begin{center}%
+      \bfseries \abstractname
+      \@endparpenalty\@M
+    \end{center}}%
+   {\par\vfil\null}
+\makeatother
+ %%%%%%%%%%%%%%%%%%%style front%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+        \fancypagestyle{frontmatter}{
+                \fancyhf{}%on vide les en-têtes
+                \fancyfoot[C]{ \thepage}%
+                \renewcommand{\headrulewidth}{1.5pt}%trait horizontal pour l'en-tête
+                \renewcommand{\footrulewidth}{2pt}%trait horizontal pour les pieds de pages
+                }
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%index%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\makeindex
+                \hypersetup{colorlinks,%
+                citecolor=black,%
+                filecolor=black,%
+                linkcolor=black,%
+                urlcolor=black} 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% les environnements %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcounter{exos}[section]
+ \newenvironment{exos}{\stepcounter{exos}\vspace{0.5cm}{\center{\bfseries\ul{Exercice  \theexos}}}}{\par\vspace{0.5cm}}
+\newcounter{sol}[section]
+ \newenvironment{sol}{\stepcounter{sol}\vspace{0.5cm}{\center{\bfseries \ul{Solution  \thesol}}}}{\par\vspace{0.5cm}} 
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  setting  page and marges %%%%%%%%%%%%%%%%%%%%%%%%%
+
+ %\linespread{1.2}%{1.4}% this is for the intervall between lines
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%biblio%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\usepackage[backend=biber]{biblatex}
+%\addbibresource{bibliographie/biblio.bib}% pour indiquer où se trouve notre .bib
+\usepackage{csquotes}% pour la gestion des guillemets français.
+\usepackage{nomencl}
+\makenomenclature
+\renewcommand{\nomname}{Liste des abréviations, des sigles et des symboles}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{draftwatermark}
+	\SetWatermarkLightness{0.8}
+	\SetWatermarkAngle{25}
+	\SetWatermarkScale{2}
+	\SetWatermarkFontSize{1cm}
+	\SetWatermarkText{} 
+	
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% chapter style defined %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\titleclass{\subsubsubsection}{straight}[\subsection]
+
+\newcounter{subsubsubsection}[subsubsection]
+\renewcommand\thesubsubsubsection{\thesubsubsection.\arabic{subsubsubsection}}
+
+\titleformat{\subsubsubsection}
+  {\normalfont\normalsize\bfseries}{\thesubsubsubsection}{1em}{}
+\titlespacing*{\subsubsubsection}
+{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+
+\makeatletter
+
+\def\toclevel@subsubsubsection{4}
+\def\l@subsubsubsection{\@dottedtocline{4}{7em}{4em}}
+\makeatother
+
+\setcounter{secnumdepth}{4}
+\setcounter{tocdepth}{4}
+                              
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

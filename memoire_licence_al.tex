@@ -1,0 +1,62 @@
+\documentclass[a4paper,11pt]{book}
+
+\input{preambule/preambule}
+
+\begin{document}
+
+\pagestyle{fancy} %style des en-têtes pour cette partie
+\let\cleardoublepage\clearpage
+
+\frontmatter % d\'ebut des pages liminaires
+
+\input{page-de-couverture/page-de-couverture}%on cr\'ee la couverture
+\thispagestyle{empty}%pour la page de garde toute blanche
+
+\input{dedicaces/dedicaces}%no comment !
+\input{remerciements/remerciements}%no comment !
+
+\renewcommand{\contentsname}{Table des matières}
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{chapter}{Sommaire}%ajout du sommaire dans le sommaire !
+\shorttoc{Sommaire}{1}
+\thispagestyle{frontmatter}
+
+\input{liste_sigles_ab/liste_sigles_ab}
+
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{chapter}{Liste des tableaux}
+\listoftables
+
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{chapter}{Table des figures}
+\listoffigures
+
+\input{abstract/abstract}
+\thispagestyle{frontmatter}
+
+\mainmatter% corps du document
+
+\input{introduction/introduction}
+\input{chapitre1/chapitre1}
+\input{chapitre2/chapitre2}
+\input{chapitre3/chapitre3}
+\input{chapitre4/chapitre4}
+\input{conclusion/conclusion}
+%\cleardoublepage% le corps du document est termin\'e
+
+\backmatter
+\pagenumbering{Roman}
+
+\input{bibliographie/bibliographie}
+
+\setcounter{tocdepth}{3}
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{chapter}{Table des matières}%ajout du sommaire dans le sommaire !
+\tableofcontents
+\thispagestyle{backmatter}
+
+\end{document}

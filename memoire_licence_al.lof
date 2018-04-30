@@ -1,0 +1,34 @@
+\select@language {french}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Logo Airbnb\relax }}{7}{figure.caption.19}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Accueil Airbnb\relax }}{8}{figure.caption.20}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Logos concurrents\relax }}{9}{figure.caption.22}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Logo BeninImmo\relax }}{9}{figure.caption.24}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Logo BeninMaison\relax }}{9}{figure.caption.24}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Accueil BeninImmo\relax }}{10}{figure.caption.25}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Accueil BeninMaison\relax }}{10}{figure.caption.26}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Diagramme de cas d'utilisation\relax }}{20}{figure.caption.40}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Diagramme des classes\relax }}{21}{figure.caption.41}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Diagramme de s\IeC {\'e}quence : Demander le titre d\IeC {\textquoteright }hote\relax }}{22}{figure.caption.42}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Diagramme de s\IeC {\'e}quence : Mettre en location un appartement\relax }}{22}{figure.caption.43}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Diagramme de s\IeC {\'e}quence : Proposer une exp\IeC {\'e}rience th\IeC {\'e}matique\relax }}{23}{figure.caption.44}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Diagramme de s\IeC {\'e}quence : R\IeC {\'e}server un logement\relax }}{23}{figure.caption.45}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Diagramme de s\IeC {\'e}quence : S\IeC {\textquoteright }inscrire \IeC {\`a} une exp\IeC {\'e}rience\relax }}{24}{figure.caption.46}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Architecture du syst\IeC {\`e}me\relax }}{25}{figure.caption.50}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces MongoDB - ExpressJs - React - NodeJs\relax }}{26}{figure.caption.51}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Moderne Stack Javascript\relax }}{26}{figure.caption.52}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Accueil - Inscription\relax }}{31}{figure.caption.58}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Nom - Inscription\relax }}{31}{figure.caption.58}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Mail - Inscription\relax }}{32}{figure.caption.59}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Mot de passe - Inscription\relax }}{32}{figure.caption.59}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Accueil\relax }}{32}{figure.caption.60}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Devenir un h\IeC {\^o}te\relax }}{33}{figure.caption.61}
+\addvspace {10\p@ }
+\contentsfinish 
