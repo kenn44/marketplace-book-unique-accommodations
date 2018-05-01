@@ -12,4 +12,4 @@ Lorsque nous voyageons à l’intérieur du territoire béninois, un choix presq
 
 **Mots Clés :** location courte durée, expérience thématique, voyage, tourisme, culture
 
-December 2017
+*December 2017*
