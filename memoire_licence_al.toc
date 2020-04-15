@@ -1,93 +1,93 @@
-\select@language {french}
-\contentsline {chapter}{D\IeC {\'e}dicaces}{ii}{chapter*.1}
-\contentsline {chapter}{Remerciements}{iii}{chapter*.2}
-\contentsline {chapter}{Sommaire}{iv}{section*.3}
-\contentsline {chapter}{Liste des sigles et abr\IeC {\'e}viations}{vi}{chapter*.4}
-\contentsline {chapter}{Liste des tableaux}{vii}{section*.5}
-\contentsline {chapter}{Table des figures}{viii}{section*.6}
-\contentsline {chapter}{R\IeC {\'e}sum\IeC {\'e}/Abstract}{ix}{chapter*.7}
-\contentsline {chapter}{Introduction}{1}{section*.8}
-\contentsline {chapter}{\numberline {1}Description institutionnelle d\IeC {\textquoteright }EtriLabs}{2}{chapter.1}
-\contentsline {section}{\numberline {1.1}Pr\IeC {\'e}sentation de l'entreprise}{2}{section.1.1}
-\contentsline {subsection}{\numberline {1.1.1}Historique de l\IeC {\textquoteright }entreprise}{2}{subsection.1.1.1}
-\contentsline {subsection}{\numberline {1.1.2}Organisation de l\IeC {\textquoteright }entreprise}{2}{subsection.1.1.2}
-\contentsline {paragraph}{Le Pr\IeC {\'e}sident Directeur G\IeC {\'e}n\IeC {\'e}ral}{2}{paragraph*.9}
-\contentsline {paragraph}{Le Directeur Technique}{3}{paragraph*.10}
-\contentsline {paragraph}{Le Directeur des Programmes}{3}{paragraph*.11}
-\contentsline {paragraph}{L\IeC {\textquoteright }Agent des Programmes}{3}{paragraph*.12}
-\contentsline {subsection}{\numberline {1.1.3}Activit\IeC {\'e}s de l\IeC {\textquoteright }entreprise}{3}{subsection.1.1.3}
-\contentsline {paragraph}{Acc\IeC {\'e}l\IeC {\'e}ration et incubation de startups}{3}{paragraph*.13}
-\contentsline {paragraph}{Solutions aux Entreprises}{3}{paragraph*.14}
-\contentsline {paragraph}{\IeC {\'E}v\IeC {\`e}nements}{4}{paragraph*.15}
-\contentsline {paragraph}{Formations}{4}{paragraph*.16}
-\contentsline {paragraph}{Coworking}{4}{paragraph*.17}
-\contentsline {section}{\numberline {1.2}Objectifs du stage}{4}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Activit\IeC {\'e}s effectu\IeC {\'e}es}{4}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}Acquis de stage}{5}{subsection.1.2.2}
-\contentsline {subsection}{\numberline {1.2.3}Difficult\IeC {\'e}s rencontr\IeC {\'e}es}{5}{subsection.1.2.3}
-\contentsline {chapter}{\numberline {2}Contexte d'\IeC {\'e}tude et revue de litt\IeC {\'e}rature}{6}{chapter.2}
-\contentsline {section}{\numberline {2.1}Probl\IeC {\'e}matique}{6}{section.2.1}
-\contentsline {section}{\numberline {2.2}Objectifs}{7}{section.2.2}
-\contentsline {section}{\numberline {2.3}\IeC {\'E}tat de l\IeC {\textquoteright }art}{7}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Pr\IeC {\'e}sentation des solutions existantes}{7}{subsection.2.3.1}
-\contentsline {paragraph}{Airbnb : Le leader}{7}{paragraph*.18}
-\contentsline {paragraph}{Les alternatives }{8}{paragraph*.21}
-\contentsline {paragraph}{Au B\IeC {\'e}nin : BeninMaison et BeninImmo}{9}{paragraph*.23}
-\contentsline {subsection}{\numberline {2.3.2}Int\IeC {\'e}r\IeC {\^e}t de la solution par rapport aux existantes}{11}{subsection.2.3.2}
-\contentsline {chapter}{\numberline {3}Analyse, conception, et choix techniques}{12}{chapter.3}
-\contentsline {section}{\numberline {3.1}Analyse des besoins}{12}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Les besoins fonctionnels}{12}{subsection.3.1.1}
-\contentsline {paragraph}{au visiteur de :}{12}{paragraph*.27}
-\contentsline {paragraph}{\IeC {\`a} l'h\IeC {\^o}te de :}{13}{paragraph*.28}
-\contentsline {paragraph}{\IeC {\`a} l\IeC {\textquoteright }administrateur}{13}{paragraph*.29}
-\contentsline {subsection}{\numberline {3.1.2}Les besoins non fonctionnels}{13}{subsection.3.1.2}
-\contentsline {section}{\numberline {3.2}Choix de la m\IeC {\'e}thode d'analyse}{14}{section.3.2}
-\contentsline {section}{\numberline {3.3}Analyse fonctionnelle et conceptuelle}{15}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Analyse fonctionnelle}{15}{subsection.3.3.1}
-\contentsline {subsubsection}{\numberline {3.3.1.1}Identification des acteurs et description}{15}{subsubsection.3.3.1.1}
-\contentsline {subsubsection}{\numberline {3.3.1.2}Diagramme de cas d\IeC {\textquoteright }utilisation}{15}{subsubsection.3.3.1.2}
-\contentsline {subsubsubsection}{\numberline {3.3.1.2.1}Identification des cas d\IeC {\textquoteright }utilisation}{15}{subsubsubsection.3.3.1.2.1}
-\contentsline {subsubsubsection}{\numberline {3.3.1.2.2}Description textuelle des cas d'utilisation}{15}{subsubsubsection.3.3.1.2.2}
-\contentsline {paragraph}{a - Cas d'utilisation : Demander le titre d\IeC {\textquoteright }h\IeC {\^o}te}{16}{paragraph*.30}
-\contentsline {paragraph}{b - Cas d'utilisation : Mettre en location un appartement}{17}{paragraph*.32}
-\contentsline {paragraph}{c - Cas d'utilisation : Proposer une exp\IeC {\'e}rience th\IeC {\'e}matique}{18}{paragraph*.34}
-\contentsline {paragraph}{d - Cas d'utilisation : R\IeC {\'e}server un logement}{18}{paragraph*.36}
-\contentsline {paragraph}{e - Cas d'utilisation : S\IeC {\textquoteright }inscrire \IeC {\`a} une exp\IeC {\'e}rience}{19}{paragraph*.38}
-\contentsline {subsubsubsection}{\numberline {3.3.1.2.3}Pr\IeC {\'e}sentation du diagramme de cas d'utilisation}{20}{subsubsubsection.3.3.1.2.3}
-\contentsline {subsection}{\numberline {3.3.2}Analyse conceptuelle}{20}{subsection.3.3.2}
-\contentsline {subsubsection}{\numberline {3.3.2.1}Diagramme des classes}{20}{subsubsection.3.3.2.1}
-\contentsline {subsubsection}{\numberline {3.3.2.2}Diagramme de s\IeC {\'e}quence}{21}{subsubsection.3.3.2.2}
-\contentsline {section}{\numberline {3.4}Choix des outils d'impl\IeC {\'e}mentation}{24}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Architecture du syst\IeC {\`e}me}{24}{subsection.3.4.1}
-\contentsline {paragraph}{Niveau 1:}{24}{paragraph*.47}
-\contentsline {paragraph}{Niveau 2:}{24}{paragraph*.48}
-\contentsline {paragraph}{Niveau 3:}{24}{paragraph*.49}
-\contentsline {subsection}{\numberline {3.4.2}Couche pr\IeC {\'e}sentation}{26}{subsection.3.4.2}
-\contentsline {subsubsection}{\numberline {3.4.2.1}Client Web}{26}{subsubsection.3.4.2.1}
-\contentsline {paragraph}{React.js}{26}{paragraph*.53}
-\contentsline {subsubsection}{\numberline {3.4.2.2}Client Mobile}{27}{subsubsection.3.4.2.2}
-\contentsline {subsubsection}{\numberline {3.4.2.3}Gestion de versions}{27}{subsubsection.3.4.2.3}
-\contentsline {subsection}{\numberline {3.4.3}Couche fonctionnelle}{27}{subsection.3.4.3}
-\contentsline {subsection}{\numberline {3.4.4}Couche donn\IeC {\'e}es}{28}{subsection.3.4.4}
-\contentsline {paragraph}{MySQL}{28}{paragraph*.54}
-\contentsline {paragraph}{PostgreSQL}{28}{paragraph*.55}
-\contentsline {paragraph}{MongoDB}{28}{paragraph*.56}
-\contentsline {paragraph}{Choix}{28}{paragraph*.57}
-\contentsline {section}{\numberline {3.5}S\IeC {\'e}curit\IeC {\'e} de l\IeC {\textquoteright }application}{29}{section.3.5}
-\contentsline {subsection}{\numberline {3.5.1}La confidentialit\IeC {\'e}}{29}{subsection.3.5.1}
-\contentsline {subsection}{\numberline {3.5.2}L\IeC {\textquoteright }Int\IeC {\'e}grit\IeC {\'e}}{29}{subsection.3.5.2}
-\contentsline {subsection}{\numberline {3.5.3}La disponibilit\IeC {\'e}}{29}{subsection.3.5.3}
-\contentsline {subsection}{\numberline {3.5.4}L\IeC {\textquoteright }Authenticit\IeC {\'e}}{29}{subsection.3.5.4}
-\contentsline {subsection}{\numberline {3.5.5}Non-r\IeC {\'e}pudiation}{30}{subsection.3.5.5}
-\contentsline {subsection}{\numberline {3.5.6}Imputabilit\IeC {\'e}}{30}{subsection.3.5.6}
-\contentsline {chapter}{\numberline {4}R\IeC {\'e}alisation de l'application}{31}{chapter.4}
-\contentsline {section}{\numberline {4.1}Captures d'ecran}{31}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Client Mobile}{31}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Client Web}{32}{subsection.4.1.2}
-\contentsline {section}{\numberline {4.2}D\IeC {\'e}ploiement de l'application}{33}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Heroku}{33}{subsection.4.2.1}
-\contentsline {section}{\numberline {4.3}Perspectives et \IeC {\'e}volution de la plateforme}{34}{section.4.3}
-\contentsline {chapter}{Conclusion}{35}{section*.62}
-\contentsline {chapter}{Bibliographie et Webographie}{I}{chapter*.63}
-\contentsline {chapter}{Table des mati\IeC {\`e}res}{III}{section*.64}
+\babel@toc {french}{}
+\contentsline {chapter}{D\IeC {\'e}dicaces}{ii}{chapter*.1}% 
+\contentsline {chapter}{Remerciements}{iii}{chapter*.2}% 
+\contentsline {chapter}{Sommaire}{iv}{section*.3}% 
+\contentsline {chapter}{Liste des sigles et abr\IeC {\'e}viations}{vi}{chapter*.4}% 
+\contentsline {chapter}{Liste des tableaux}{vii}{section*.5}% 
+\contentsline {chapter}{Table des figures}{viii}{section*.6}% 
+\contentsline {chapter}{R\IeC {\'e}sum\IeC {\'e}/Abstract}{ix}{chapter*.7}% 
+\contentsline {chapter}{Introduction}{1}{section*.8}% 
+\contentsline {chapter}{\numberline {1}Description institutionnelle d\IeC {\textquoteright }EtriLabs}{2}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Pr\IeC {\'e}sentation de l'entreprise}{2}{section.1.1}% 
+\contentsline {subsection}{\numberline {1.1.1}Historique de l\IeC {\textquoteright }entreprise}{2}{subsection.1.1.1}% 
+\contentsline {subsection}{\numberline {1.1.2}Organisation de l\IeC {\textquoteright }entreprise}{2}{subsection.1.1.2}% 
+\contentsline {paragraph}{Le Pr\IeC {\'e}sident Directeur G\IeC {\'e}n\IeC {\'e}ral}{2}{paragraph*.9}% 
+\contentsline {paragraph}{Le Directeur Technique}{3}{paragraph*.10}% 
+\contentsline {paragraph}{Le Directeur des Programmes}{3}{paragraph*.11}% 
+\contentsline {paragraph}{L\IeC {\textquoteright }Agent des Programmes}{3}{paragraph*.12}% 
+\contentsline {subsection}{\numberline {1.1.3}Activit\IeC {\'e}s de l\IeC {\textquoteright }entreprise}{3}{subsection.1.1.3}% 
+\contentsline {paragraph}{Acc\IeC {\'e}l\IeC {\'e}ration et incubation de startups}{3}{paragraph*.13}% 
+\contentsline {paragraph}{Solutions aux Entreprises}{3}{paragraph*.14}% 
+\contentsline {paragraph}{\IeC {\'E}v\IeC {\`e}nements}{4}{paragraph*.15}% 
+\contentsline {paragraph}{Formations}{4}{paragraph*.16}% 
+\contentsline {paragraph}{Coworking}{4}{paragraph*.17}% 
+\contentsline {section}{\numberline {1.2}Objectifs du stage}{4}{section.1.2}% 
+\contentsline {subsection}{\numberline {1.2.1}Activit\IeC {\'e}s effectu\IeC {\'e}es}{4}{subsection.1.2.1}% 
+\contentsline {subsection}{\numberline {1.2.2}Acquis de stage}{5}{subsection.1.2.2}% 
+\contentsline {subsection}{\numberline {1.2.3}Difficult\IeC {\'e}s rencontr\IeC {\'e}es}{5}{subsection.1.2.3}% 
+\contentsline {chapter}{\numberline {2}Contexte d'\IeC {\'e}tude et revue de litt\IeC {\'e}rature}{6}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Probl\IeC {\'e}matique}{6}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}Objectifs}{7}{section.2.2}% 
+\contentsline {section}{\numberline {2.3}\IeC {\'E}tat de l\IeC {\textquoteright }art}{7}{section.2.3}% 
+\contentsline {subsection}{\numberline {2.3.1}Pr\IeC {\'e}sentation des solutions existantes}{7}{subsection.2.3.1}% 
+\contentsline {paragraph}{Airbnb : Le leader}{7}{paragraph*.18}% 
+\contentsline {paragraph}{Les alternatives }{8}{paragraph*.21}% 
+\contentsline {paragraph}{Au B\IeC {\'e}nin : BeninMaison et BeninImmo}{9}{paragraph*.23}% 
+\contentsline {subsection}{\numberline {2.3.2}Int\IeC {\'e}r\IeC {\^e}t de la solution par rapport aux existantes}{11}{subsection.2.3.2}% 
+\contentsline {chapter}{\numberline {3}Analyse, conception, et choix techniques}{12}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Analyse des besoins}{12}{section.3.1}% 
+\contentsline {subsection}{\numberline {3.1.1}Les besoins fonctionnels}{12}{subsection.3.1.1}% 
+\contentsline {paragraph}{au visiteur de :}{12}{paragraph*.27}% 
+\contentsline {paragraph}{\IeC {\`a} l'h\IeC {\^o}te de :}{13}{paragraph*.28}% 
+\contentsline {paragraph}{\IeC {\`a} l\IeC {\textquoteright }administrateur}{13}{paragraph*.29}% 
+\contentsline {subsection}{\numberline {3.1.2}Les besoins non fonctionnels}{13}{subsection.3.1.2}% 
+\contentsline {section}{\numberline {3.2}Choix de la m\IeC {\'e}thode d'analyse}{14}{section.3.2}% 
+\contentsline {section}{\numberline {3.3}Analyse fonctionnelle et conceptuelle}{15}{section.3.3}% 
+\contentsline {subsection}{\numberline {3.3.1}Analyse fonctionnelle}{15}{subsection.3.3.1}% 
+\contentsline {subsubsection}{\numberline {3.3.1.1}Identification des acteurs et description}{15}{subsubsection.3.3.1.1}% 
+\contentsline {subsubsection}{\numberline {3.3.1.2}Diagramme de cas d\IeC {\textquoteright }utilisation}{15}{subsubsection.3.3.1.2}% 
+\contentsline {subsubsubsection}{\numberline {3.3.1.2.1}Identification des cas d\IeC {\textquoteright }utilisation}{15}{subsubsubsection.3.3.1.2.1}% 
+\contentsline {subsubsubsection}{\numberline {3.3.1.2.2}Description textuelle des cas d'utilisation}{15}{subsubsubsection.3.3.1.2.2}% 
+\contentsline {paragraph}{a - Cas d'utilisation : Demander le titre d\IeC {\textquoteright }h\IeC {\^o}te}{16}{paragraph*.30}% 
+\contentsline {paragraph}{b - Cas d'utilisation : Mettre en location un appartement}{17}{paragraph*.32}% 
+\contentsline {paragraph}{c - Cas d'utilisation : Proposer une exp\IeC {\'e}rience th\IeC {\'e}matique}{18}{paragraph*.34}% 
+\contentsline {paragraph}{d - Cas d'utilisation : R\IeC {\'e}server un logement}{18}{paragraph*.36}% 
+\contentsline {paragraph}{e - Cas d'utilisation : S\IeC {\textquoteright }inscrire \IeC {\`a} une exp\IeC {\'e}rience}{19}{paragraph*.38}% 
+\contentsline {subsubsubsection}{\numberline {3.3.1.2.3}Pr\IeC {\'e}sentation du diagramme de cas d'utilisation}{20}{subsubsubsection.3.3.1.2.3}% 
+\contentsline {subsection}{\numberline {3.3.2}Analyse conceptuelle}{20}{subsection.3.3.2}% 
+\contentsline {subsubsection}{\numberline {3.3.2.1}Diagramme des classes}{20}{subsubsection.3.3.2.1}% 
+\contentsline {subsubsection}{\numberline {3.3.2.2}Diagramme de s\IeC {\'e}quence}{21}{subsubsection.3.3.2.2}% 
+\contentsline {section}{\numberline {3.4}Choix des outils d'impl\IeC {\'e}mentation}{24}{section.3.4}% 
+\contentsline {subsection}{\numberline {3.4.1}Architecture du syst\IeC {\`e}me}{24}{subsection.3.4.1}% 
+\contentsline {paragraph}{Niveau 1:}{24}{paragraph*.47}% 
+\contentsline {paragraph}{Niveau 2:}{24}{paragraph*.48}% 
+\contentsline {paragraph}{Niveau 3:}{24}{paragraph*.49}% 
+\contentsline {subsection}{\numberline {3.4.2}Couche pr\IeC {\'e}sentation}{26}{subsection.3.4.2}% 
+\contentsline {subsubsection}{\numberline {3.4.2.1}Client Web}{26}{subsubsection.3.4.2.1}% 
+\contentsline {paragraph}{React.js}{26}{paragraph*.53}% 
+\contentsline {subsubsection}{\numberline {3.4.2.2}Client Mobile}{27}{subsubsection.3.4.2.2}% 
+\contentsline {subsubsection}{\numberline {3.4.2.3}Gestion de versions}{27}{subsubsection.3.4.2.3}% 
+\contentsline {subsection}{\numberline {3.4.3}Couche fonctionnelle}{27}{subsection.3.4.3}% 
+\contentsline {subsection}{\numberline {3.4.4}Couche donn\IeC {\'e}es}{28}{subsection.3.4.4}% 
+\contentsline {paragraph}{MySQL}{28}{paragraph*.54}% 
+\contentsline {paragraph}{PostgreSQL}{28}{paragraph*.55}% 
+\contentsline {paragraph}{MongoDB}{28}{paragraph*.56}% 
+\contentsline {paragraph}{Choix}{28}{paragraph*.57}% 
+\contentsline {section}{\numberline {3.5}S\IeC {\'e}curit\IeC {\'e} de l\IeC {\textquoteright }application}{29}{section.3.5}% 
+\contentsline {subsection}{\numberline {3.5.1}La confidentialit\IeC {\'e}}{29}{subsection.3.5.1}% 
+\contentsline {subsection}{\numberline {3.5.2}L\IeC {\textquoteright }Int\IeC {\'e}grit\IeC {\'e}}{29}{subsection.3.5.2}% 
+\contentsline {subsection}{\numberline {3.5.3}La disponibilit\IeC {\'e}}{29}{subsection.3.5.3}% 
+\contentsline {subsection}{\numberline {3.5.4}L\IeC {\textquoteright }Authenticit\IeC {\'e}}{29}{subsection.3.5.4}% 
+\contentsline {subsection}{\numberline {3.5.5}Non-r\IeC {\'e}pudiation}{30}{subsection.3.5.5}% 
+\contentsline {subsection}{\numberline {3.5.6}Imputabilit\IeC {\'e}}{30}{subsection.3.5.6}% 
+\contentsline {chapter}{\numberline {4}R\IeC {\'e}alisation de l'application}{31}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Captures d'ecran}{31}{section.4.1}% 
+\contentsline {subsection}{\numberline {4.1.1}Client Mobile}{31}{subsection.4.1.1}% 
+\contentsline {subsection}{\numberline {4.1.2}Client Web}{32}{subsection.4.1.2}% 
+\contentsline {section}{\numberline {4.2}D\IeC {\'e}ploiement de l'application}{33}{section.4.2}% 
+\contentsline {subsection}{\numberline {4.2.1}Heroku}{33}{subsection.4.2.1}% 
+\contentsline {section}{\numberline {4.3}Perspectives et \IeC {\'e}volution de la plateforme}{34}{section.4.3}% 
+\contentsline {chapter}{Conclusion}{35}{section*.62}% 
+\contentsline {chapter}{Bibliographie et Webographie}{I}{chapter*.63}% 
+\contentsline {chapter}{Table des mati\IeC {\`e}res}{III}{section*.64}% 
 \contentsfinish 
